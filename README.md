@@ -1,4 +1,8 @@
-# ScotlandForked
+# Scotland 
+
+Erman Louie Faminiano
+Ted Raphael Pabiona
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.5.
 
